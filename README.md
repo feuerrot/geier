@@ -8,3 +8,4 @@ Sammlung aller(?) Ausgaben des [Geiers](https://www.fsmpi.rwth-aachen.de/fachsch
 * Seit Ausgabe 191 CC by-nc-sa 3.0
 * Ich habe immernoch keinen Artikel geschrieben
 * Was im geier.tar.gz ist: unbekannt
+* content jetzt unter geier/ - für mehr Übersicht hier
